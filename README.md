@@ -115,6 +115,50 @@ Optimized for **founders seeking validation, pilots, funding, manufacturing acce
 | **TIIEC** | Coconut value-chain council | Rural enterprise & agri processing | — | Agri startups | Non-profit | Tumakuru |
 
 
+## 🇮🇳 India — Delhi NCR Startup & Research Ecosystem
+
+### 🎓 University-Led Incubators  
+*Focus: Deep tech, student startups, grants, academic infrastructure*
+
+| Program Name | Host Institution | Focus Areas | How it Helps |
+|-------------|-----------------|------------|--------------|
+| **FITT (Foundation for Innovation & Technology Transfer)** | IIT Delhi (Hauz Khas) | DeepTech, Defence, Biotech | Elite deep-science incubation + TBI & BioNEST access |
+| **IIITD Innovation & Incubation Center (IIITD-IC)** | IIIT-Delhi (Okhla) | AI, Data Science, Cyber Security | Advanced compute labs + strong CS faculty linkage |
+| **DTU-IIF (Innovation & Incubation Foundation)** | Delhi Technological University | Hardware, Student Startups | Student-first incubation + Startup India Seed Fund |
+| **IGDTUW Anveshan Foundation** | IGDTUW (Kashmere Gate) | Women-led Startups | India’s strongest women-focused tech incubator |
+| **AIC-JNUFI** | Jawaharlal Nehru University | HealthTech, Social Impact, Agri | Life-science + policy-driven startup support |
+| **SIIF (SSCBS Innovation & Incubation Foundation)** | Shaheed Sukhdev College of Business Studies | FinTech, Student Tech | Business-model heavy incubation + Yuva seed funding |
+| **Udhmodya Foundation** | University of Delhi | Sector Agnostic | Central incubation body across DU colleges |
+| **ACIIE** | Ambedkar University Delhi | Social Entrepreneurship | Humanities-driven social innovation incubation |
+
+---
+
+### 🧪 Government-Backed & Research Institute Incubators  
+*Focus: National priorities, lab access, regulated pilots*
+
+| Program Name | Location | Focus Areas | How it Helps |
+|-------------|----------|------------|--------------|
+| **Electropreneur Park** | DU South Campus | ESDM, Electronics | MeitY-backed RF & power electronics labs |
+| **Pusa Krishi Incubator** | ICAR-IARI (Pusa) | AgriTech, Farm Innovation | Field trials + ICAR tech transfer |
+| **BioNEST – UDSC** | DU South Campus | Biotechnology | Fermentation & industrial bio labs (BIRAC-backed) |
+| **CMIE (Centre for Medical Innovation & Entrepreneurship)** | AIIMS Delhi | MedTech, Healthcare | Clinical validation inside India’s top hospital |
+| **Shriram Institute – TBI (SRI-TBI)** | Delhi | Plastics, Rubber, Waste Tech | Material-science focused incubation |
+
+---
+
+### 🚀 Private Accelerators & Venture Builders  
+*Focus: Impact, hands-on execution, early funding*
+
+| Program Name | Location | Focus Areas | How it Helps |
+|-------------|----------|------------|--------------|
+| **Indigram Labs Foundation** | Mohan Estate (South Delhi) | AgriTech, Clean Energy, Health | Rural & Bharat-scale startup enablement |
+| **India Accelerator (Delhi Node)** | Okhla Phase III | DeepTech, AI, SaaS | GAN-partnered cohorts + capital access |
+| **Supreme Incubator** | North Delhi | General Tech | Venture-builder model for seed readiness |
+| **WEE Foundation** | IIT Delhi Campus | Women Entrepreneurs | DST-supported funding + mentorship |
+| **UnLtd India (Delhi Programs)** | Delhi (Program-based) | Social Entrepreneurship | Fellowship model for impact-first founders |
+
+---
+
 
 ## 🇮🇳 India — Corporate, VC & Founder-First Programs
 
